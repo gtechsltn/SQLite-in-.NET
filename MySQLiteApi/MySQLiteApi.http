@@ -1,0 +1,6 @@
+@MySQLiteApi_HostAddress = http://localhost:5001
+
+GET {{MySQLiteApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
